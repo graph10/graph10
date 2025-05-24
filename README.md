@@ -3,9 +3,9 @@
 
 ### Сети/Socials
 <a href="https://vk.com/romankulikov2"><img src="/vk.png" width="32" height="32" alt="VK"></a>
-<a href="https://t.me/peekpray"><img src="/vk.png" width="32" height="32" alt="Telegram"></a>
-<a href="https://github.com/graph10"><img src="/vk.png" width="32" height="32" alt="GitHub"></a>
-<a href="https://steamcommunity.com/profiles/76561198957722515"><img src="/vk.png" width="32" height="32" alt="Steam"></a>
+<a href="https://t.me/peekpray"><img src="/telegram.png" width="32" height="32" alt="Telegram"></a>
+<a href="https://github.com/graph10"><img src="/github.png" width="32" height="32" alt="GitHub"></a>
+<a href="https://steamcommunity.com/profiles/76561198957722515"><img src="/steam.png" width="32" height="32" alt="Steam"></a>
 
 ### Научите контролить спрей
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
