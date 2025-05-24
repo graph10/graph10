@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kulikov Roman
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 CS 2, gym, family c, what else do you need to live?
@@ -6,9 +6,9 @@ CS 2, gym, family c, what else do you need to live?
 
 ### Сети
 [kylikov.zxxz@gmail.com](mailto:kylikov.zxxz@gmail.com)
-https://vk.com/romankulikov2
-https://t.me/peekpray
-https://steamcommunity.com/profiles/76561198957722515/
+<p>https://vk.com/romankulikov2</p>
+<p>https://t.me/peekpray</p>
+<p>https://steamcommunity.com/profiles/76561198957722515/</p>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
 ⢠⣶⠖⠒⠖⠶⡖⢶⣾⣟⣿⣛⣿⣿⣿⣿⣯⣏⡭⠭⠭⠯⠿⠿⠿⠿⠶⠶⠿⠒
 ⢸⢾⣰⣤⠴⠚⠋⠁⣠⣿⠟⠑⠘⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
