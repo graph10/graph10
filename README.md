@@ -2,14 +2,14 @@
 =====================================================================================================================================
 CS 2, gym, family c, what else do you need to live?
 =====================================================================================================================================
-### Сети/Socials
+# Сети/Socials
 <p align="left"> <a href="https://www.github.com/graph10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 [kylikov.zxxz@gmail.com](mailto:kylikov.zxxz@gmail.com)
 <p>https://vk.com/romankulikov2</p>
 <p>https://t.me/peekpray</p>
 <p>https://steamcommunity.com/profiles/76561198957722515/</p>
 
-### ЧЗХ
+## ЧЗХ
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
 ⢠⣶⠖⠒⠖⠶⡖⢶⣾⣟⣿⣛⣿⣿⣿⣿⣯⣏⡭⠭⠭⠯⠿⠿⠿⠿⠶⠶⠿⠒
 ⢸⢾⣰⣤⠴⠚⠋⠁⣠⣿⠟⠑⠘⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
