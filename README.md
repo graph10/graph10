@@ -39,4 +39,4 @@ CS 2, gym, family c, what else do you need to live?
 
 <b>My CodeWars stats</b>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/graph10)  
+[![codewars](https://www.codewars.com/users/graph10/badges/large)](https://www.codewars.com/users/graph10)  
