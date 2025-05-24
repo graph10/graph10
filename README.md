@@ -11,7 +11,13 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg" width="32" height="32" alt="VK">
     </picture>
   </a>
- <p>https://t.me/peekpray</p>
+ <a href="https://t.me/peekpray" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram">
+    </picture>
+  </a>
  <p>https://steamcommunity.com/profiles/76561198957722515/</p>
 
 ### Научите контролить спрей
