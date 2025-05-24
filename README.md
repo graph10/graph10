@@ -12,10 +12,10 @@
     </picture>
   </a>
 
-  <a href="https://vk.com/romankulikov2" target="_blank" style="margin-right: 20px;">
+  <a href="https://vk.com/romankulikov2" target="_blank" style="margin-right: 0px;">
     <img src="https://simpleicons.org/icons/vk.svg" width="32" height="32" alt="VK">
   </a>
-  <a href="https://t.me/peekpray" target="_blank" style="margin-right: 20px;">
+  <a href="https://t.me/peekpray" target="_blank" style="margin-right: 0px;">
     <img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198957722515" target="_blank">
