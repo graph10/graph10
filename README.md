@@ -1,9 +1,7 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[![codewars](https://www.codewars.com/users/graph10/badges/large)](https://www.codewars.com/users/graph10)
 =====================================================================================================================================
-
 CS 2, gym, family c, what else do you need to live?
 ---------------------------------------------------
-
 
 ### Сети
 [kylikov.zxxz@gmail.com](mailto:kylikov.zxxz@gmail.com)
@@ -35,8 +33,4 @@ CS 2, gym, family c, what else do you need to live?
 
 <a href="http://www.github.com/graph10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=graph10&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/graph10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>My CodeWars stats</b>
-
-[![codewars](https://www.codewars.com/users/graph10/badges/large)](https://www.codewars.com/users/graph10)  
+<a href="https://github.com/graph10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
