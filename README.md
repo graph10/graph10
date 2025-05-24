@@ -2,27 +2,10 @@
 # CS 2, gym, family c, what else do you need to live?
 
 ### Сети/Socials
-<a href="https://vk.com/romankulikov2"><img src="/vk.svg" width="32" height="32" alt="VK"></a>
-<p align="left">
-  <!-- GitHub (как у вас) -->
-  <a href="https://github.com/graph10" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
-    </picture>
-  </a>
-
-  <a href="https://vk.com/romankulikov2" target="_blank" style="margin-right: 0px;">
-    <img src="https://simpleicons.org/icons/vk.svg" width="32" height="32" alt="VK">
-  </a>
-  <a href="https://t.me/peekpray" target="_blank" style="margin-right: 0px;">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram">
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561198957722515" target="_blank">
-    <img src="https://simpleicons.org/icons/steam.svg" width="32" height="32" alt="Steam">
-  </a>
-</p>
+<a href="https://vk.com/romankulikov2"><img src="/vk.png" width="32" height="32" alt="VK"></a>
+<a href="https://t.me/peekpray"><img src="/vk.png" width="32" height="32" alt="Telegram"></a>
+<a href="https://github.com/graph10"><img src="/vk.png" width="32" height="32" alt="GitHub"></a>
+<a href="https://steamcommunity.com/profiles/76561198957722515"><img src="/vk.png" width="32" height="32" alt="Steam"></a>
 
 ### Научите контролить спрей
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
