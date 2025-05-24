@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS 2, gym, family c, what else do you need to live?
 ---------------------------------------------------
 
-<p align="left">
-Сети
+### Сети
 [kylikov.zxxz@gmail.com](mailto:kylikov.zxxz@gmail.com)
-[https://vk.com/romankulikov2]
-[https://t.me/peekpray]
-[https://steamcommunity.com/profiles/76561198957722515/]
-</p>
+https://vk.com/romankulikov2
+https://t.me/peekpray
+https://steamcommunity.com/profiles/76561198957722515/
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
 ⢠⣶⠖⠒⠖⠶⡖⢶⣾⣟⣿⣛⣿⣿⣿⣿⣯⣏⡭⠭⠭⠯⠿⠿⠿⠿⠶⠶⠿⠒
 ⢸⢾⣰⣤⠴⠚⠋⠁⣠⣿⠟⠑⠘⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
