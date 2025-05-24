@@ -4,7 +4,13 @@
 ### Сети/Socials
 <p align="left"> <a href="https://www.github.com/graph10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 * kylikov.zxxz@gmail.com
- <p>https://vk.com/romankulikov2</p>
+<a href="https://vk.com/romankulikov2" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg" width="32" height="32" alt="VK">
+    </picture>
+  </a>
  <p>https://t.me/peekpray</p>
  <p>https://steamcommunity.com/profiles/76561198957722515/</p>
 
