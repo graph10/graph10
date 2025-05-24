@@ -2,6 +2,7 @@
 # CS 2, gym, family c, what else do you need to live?
 
 ### Сети/Socials
+<a href="https://vk.com/romankulikov2"><img src="/vk.svg" width="32" height="32" alt="VK"></a>
 <p align="left">
   <!-- GitHub (как у вас) -->
   <a href="https://github.com/graph10" target="_blank" rel="noreferrer">
