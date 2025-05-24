@@ -1,5 +1,4 @@
 [![codewars](https://www.codewars.com/users/graph10/badges/large)](https://www.codewars.com/users/graph10)
-=====================================================================================================================================
 # CS 2, gym, family c, what else do you need to live?
 
 # Сети/Socials
