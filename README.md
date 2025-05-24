@@ -12,31 +12,14 @@
     </picture>
   </a>
 
-  <!-- VK -->
-  <a href="https://vk.com/romankulikov2" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg" width="32" height="32" alt="VK">
-    </picture>
+  <a href="https://vk.com/romankulikov2" target="_blank" style="margin-right: 10px;">
+    <img src="https://simpleicons.org/icons/vk.svg" width="32" height="32" alt="VK">
   </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/peekpray" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram">
-    </picture>
+  <a href="https://t.me/peekpray" target="_blank" style="margin-right: 10px;">
+    <img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram">
   </a>
-
-  <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561198957722515" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/steam-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/steam.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/steam.svg" width="32" height="32" alt="Steam">
-    </picture>
+  <a href="https://steamcommunity.com/profiles/76561198957722515" target="_blank">
+    <img src="https://simpleicons.org/icons/steam.svg" width="32" height="32" alt="Steam">
   </a>
 </p>
 
