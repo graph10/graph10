@@ -25,24 +25,16 @@
 ### <b>Моя статистика/My stats</b>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <!-- GIF слева -->
   <div style="flex: 1;">
     <img src="-1.gif" width="70px" height="100px" alt="Анимация программиста">
   </div>
-  
-  <!-- Виджеты справа (вертикально) -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
-    <!-- GitHub Streak Stats -->
     <a href="http://www.github.com/graph10">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=graph10&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%">
     </a>
-    
-    <!-- Top Languages -->
     <a href="https://github.com/graph10">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" width="100%" alt="Top Languages">
     </a>
-    
-    <!-- LeetCode Stats -->
     <a href="https://leetcode.com/graph10">
       <img src="https://leetcard.jacoblin.cool/graph10" width="100%">
     </a>
