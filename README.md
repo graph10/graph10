@@ -28,4 +28,4 @@
 
 <a href="https://github.com/graph10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/graph10)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/graph10)](https://leetcode.com/graph10)
