@@ -26,7 +26,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    <img src="-1.gif" width="200px" height="300px" alt="Анимация программиста">
+    <img src="-1.gif" width="240px" height="400px" alt="Анимация программиста">
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
     <a href="http://www.github.com/graph10">
