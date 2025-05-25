@@ -30,9 +30,9 @@
   </a>
   
   <!-- Правый виджет (LeetCode) -->
-  <a href="https://leetcode.com/graph10" style="flex: 1; margin-left: 10px;">
+  <!--><a href="https://leetcode.com/graph10" style="flex: 1; margin-left: 10px;">
     <img src="https://leetcard.jacoblin.cool/graph10" />
-  </a>
+  <!--></a>
 </div>
 
 <!-- Центральный виджет (Top Languages) -->
