@@ -27,7 +27,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <!-- GIF слева -->
   <div style="flex: 1;">
-    <img src="-1.gif" width="100%" alt="Анимация программиста">
+    <img src="-1.gif" width="70px" height="100px" alt="Анимация программиста">
   </div>
   
   <!-- Виджеты справа (вертикально) -->
