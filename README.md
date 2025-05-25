@@ -22,7 +22,7 @@
 
 # Значки/Badges
 
-### <b>Моя статистика ГитХаб/My GitHub Stats</b>
+### <b>Моя статистика/My stats</b>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <!-- Левый виджет (GitHub Streak) -->
