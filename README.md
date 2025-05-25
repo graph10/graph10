@@ -25,20 +25,18 @@
 ### <b>Моя статистика/My stats</b>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <!-- Левый виджет (GitHub Streak) -->
+  <!-- GitHub Streak -->
   <a href="http://www.github.com/graph10" style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=graph10&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   
-  <!-- Правый виджет (LeetCode) -->
+  <!-- Top Languages -->
+  <a href="https://github.com/graph10" style="flex: 1; margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  
+  <!-- LeetCode -->
   <a href="https://leetcode.com/graph10" style="flex: 1; margin-left: 10px;">
     <img src="https://leetcard.jacoblin.cool/graph10" />
-  </a>
-</div>
-
-<!-- Центральный виджет (Top Languages) -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://github.com/graph10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph10&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </div>
