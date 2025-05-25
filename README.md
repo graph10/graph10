@@ -8,11 +8,23 @@
 <a href="https://steamcommunity.com/profiles/76561198957722515"><img src="/steam.png" width="32" height="32" alt="Steam"></a>
 
 ### Научите контролить спрей
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- ASCII-арт слева -->
+  <div style="flex: 1;">
+    <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣤⣤⢄⠄⠀⠀⣀⣀⣀⡀⠀⠀⣤⠀
 ⢠⣶⠖⠒⠖⠶⡖⢶⣾⣟⣿⣛⣿⣿⣿⣿⣯⣏⡭⠭⠭⠯⠿⠿⠿⠿⠶⠶⠿⠒
 ⢸⢾⣰⣤⠴⠚⠋⠁⣠⣿⠟⠑⠘⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠈⠉⠁⠀⠀⠀⠀⠈⠻⠋⠀⠀⠀⠀⢻⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡟⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡟⠁⠀</pre>
+  </div>
+  
+  <!-- GIF справа -->
+  <div style="flex: 1;">
+    <img src="-1.gif" width="240px" height="400px" alt="Анимация программиста">
+  </div>
+</div>
+
 =====================================================================================================================================
 ### Скиллы/Skills
 
@@ -21,11 +33,6 @@
 </p>
 
 # Значки/Badges
-
-<!--><div style="flex: 1;">
-    <img src="-1.gif" width="240px" height="400px" alt="Анимация программиста">
-  </div>
-
 ### <b>Моя статистика/My stats</b>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
