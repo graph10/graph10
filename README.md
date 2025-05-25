@@ -28,11 +28,6 @@
   <a href="http://www.github.com/graph10" style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=graph10&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  
-  <!-- Правый виджет (LeetCode) -->
-  <!--><a href="https://leetcode.com/graph10" style="flex: 1; margin-left: 10px;">
-    <img src="https://leetcard.jacoblin.cool/graph10" />
-  <!--></a>
 </div>
 
 <!-- Центральный виджет (Top Languages) -->
